@@ -1,4 +1,4 @@
-# AWS EKS 
+# 2048 game deployed on AWS EKS 
 
 ## Introduction
 
